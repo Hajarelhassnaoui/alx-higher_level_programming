@@ -1,1 +1,1 @@
-0x00-python-hello_world
+solutions to 0x00 Python hello wold
